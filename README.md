@@ -1,1 +1,2 @@
-# PureText-file-Encryption
+# CBHuffman
+CB Huffman
